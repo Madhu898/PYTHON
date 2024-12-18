@@ -1,0 +1,4 @@
+2024-12-18 18:51:37 - Testing_logging_module_logger - ERROR  unsupported operand type(s) for +: 'int' and 'str'
+2024-12-18 18:51:37 - Testing_logging_module_logger - INFO  succefully added two numbers
+2024-12-18 18:52:25 - Testing_logging_module_logger - ERROR  unsupported operand type(s) for +: 'int' and 'str'
+2024-12-18 18:52:25 - Testing_logging_module_logger - INFO  succefully added two numbers
